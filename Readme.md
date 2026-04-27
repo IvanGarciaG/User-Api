@@ -155,3 +155,7 @@ Desarrollado como parte de una prueba técnica backend.
 * Proyecto enfocado en demostrar arquitectura, testing y buenas prácticas.
 
 ---
+## 📚 Documentación API
+
+[🔗 Swagger UI](http://localhost:8080/swagger-ui/index.html)
+---
